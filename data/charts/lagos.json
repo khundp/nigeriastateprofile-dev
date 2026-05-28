@@ -1,0 +1,257 @@
+{
+  "state": "lagos",
+  "updated_at": "2026-05-04",
+  "groups": {
+    "human": [
+      [
+        "Multidimensional Poverty (%)",
+        29.4,
+        62.9,
+        35.7,
+        "2022"
+      ],
+      [
+        "HDI",
+        72.1,
+        55.0,
+        53.3,
+        "2022"
+      ],
+      [
+        "Life Expectancy at Birth",
+        57.8,
+        56.2,
+        51.7,
+        "2021"
+      ]
+    ],
+    "health": [
+      [
+        "Infant Mortality Rate",
+        36,
+        63,
+        33,
+        "2023-24"
+      ],
+      [
+        "Maternal Mortality Rate",
+        356,
+        556,
+        323,
+        "2018"
+      ],
+      [
+        "HIV Prevalence Rate",
+        1.8,
+        1.4,
+        2.0,
+        "2023"
+      ],
+      [
+        "Health Facilities per 10K",
+        1.6,
+        1.6,
+        1.9,
+        "2022"
+      ]
+    ],
+    "education": [
+      [
+        "Literacy Rate (5yrs+)",
+        92.8,
+        63.2,
+        76.9,
+        "2020"
+      ],
+      [
+        "Children Out of School",
+        0.2,
+        16.17,
+        1.19,
+        "2022"
+      ],
+      [
+        "Schools per 10K",
+        18.5,
+        13.9,
+        16.1,
+        "2022"
+      ]
+    ],
+    "labour": [
+      [
+        "Un/under Employment",
+        5.5,
+        5.4,
+        4.3,
+        "2023"
+      ],
+      [
+        "Informal Employment",
+        76.3,
+        92.2,
+        85.3,
+        "2023"
+      ],
+      [
+        "Employment in Agriculture",
+        1.2,
+        32.5,
+        18.9,
+        "2023"
+      ],
+      [
+        "Youth NEET",
+        15.1,
+        15.6,
+        19.0,
+        "2023"
+      ]
+    ],
+    "wash": [
+      [
+        "Improved Drinking Water",
+        99.4,
+        75.9,
+        88.8,
+        "2022"
+      ],
+      [
+        "Time to Water Source >30min",
+        4.0,
+        25.2,
+        7.4,
+        "2022"
+      ],
+      [
+        "Improved Sanitation Facilities",
+        96.9,
+        57.5,
+        71.2,
+        "2022"
+      ],
+      [
+        "Combined WASH Access",
+        26.9,
+        14.4,
+        17.2,
+        "2022"
+      ]
+    ],
+    "food": [
+      [
+        "Food Security Pressure",
+        17.01,
+        82.28,
+        19.68,
+        "2024"
+      ],
+      [
+        "Food Security Crisis",
+        1.26,
+        24.1,
+        1.96,
+        "2024"
+      ],
+      [
+        "Food Security Emergency",
+        0,
+        0.99,
+        0,
+        "2024"
+      ],
+      [
+        "Number of IDPs",
+        0,
+        4.07,
+        0.02,
+        "2023"
+      ]
+    ],
+    "energy": [
+      [
+        "Access to Electricity",
+        98.7,
+        63.7,
+        66.7,
+        "2020"
+      ],
+      [
+        "Clean Cookstoves Usage",
+        99.3,
+        48.5,
+        58.3,
+        "2020"
+      ],
+      [
+        "Low/No Access Areas",
+        0,
+        32.1,
+        2.5,
+        "2024"
+      ],
+      [
+        "Monthly Diesel Expenditure (\u20a6)",
+        1.22,
+        1.45,
+        1.3,
+        "2024"
+      ]
+    ],
+    "ict": [
+      [
+        "Internet Access Households",
+        65.1,
+        34.7,
+        36.9,
+        "2023"
+      ],
+      [
+        "Phone Access Households",
+        95.6,
+        84.6,
+        90.2,
+        "2023"
+      ],
+      [
+        "Road Density per 100km",
+        146,
+        10,
+        10,
+        "2022"
+      ]
+    ]
+  },
+  "radar": [
+    {
+      "label": "HDI",
+      "value": 72.1,
+      "year": "2022"
+    },
+    {
+      "label": "Literacy",
+      "value": 92.8,
+      "year": "2020"
+    },
+    {
+      "label": "Electricity",
+      "value": 98.7,
+      "year": "2020"
+    },
+    {
+      "label": "Internet",
+      "value": 65.1,
+      "year": "2023"
+    },
+    {
+      "label": "Water",
+      "value": 99.4,
+      "year": "2022"
+    },
+    {
+      "label": "Lower poverty",
+      "value": 70.6,
+      "year": "2022"
+    }
+  ]
+}
