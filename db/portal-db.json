@@ -1,0 +1,680 @@
+{
+  "admins": [
+    {
+      "username": "admin",
+      "password_hash": "$2a$10$S8sx7MW8uTXfXwC69lRNYutQ9uULt/3LUzO5r/K/rrLlgCgkHmtxW"
+    }
+  ],
+  "states": [
+    {
+      "slug": "abia",
+      "name": "Abia",
+      "zone": "South East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/abia.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "adamawa",
+      "name": "Adamawa",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/adamawa.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "akwaibom",
+      "name": "Akwa Ibom",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/akwaibom.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "anambra",
+      "name": "Anambra",
+      "zone": "South East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/anambra.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "bauchi",
+      "name": "Bauchi",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/bauchi.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "bayelsa",
+      "name": "Bayelsa",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/bayelsa.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "benue",
+      "name": "Benue",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/benue.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "borno",
+      "name": "Borno",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/borno.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "crossriver",
+      "name": "Cross River",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/crossriver.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "delta",
+      "name": "Delta",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/delta.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "ebonyi",
+      "name": "Ebonyi",
+      "zone": "South East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/ebonyi.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "edo",
+      "name": "Edo",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/edo.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "ekiti",
+      "name": "Ekiti",
+      "zone": "South West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/ekiti.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "enugu",
+      "name": "Enugu",
+      "zone": "South East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/enugu.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "fct",
+      "name": "FCT",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/fct.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "gombe",
+      "name": "Gombe",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/gombe.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "imo",
+      "name": "Imo",
+      "zone": "South East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/imo.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "jigawa",
+      "name": "Jigawa",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/jigawa.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "kaduna",
+      "name": "Kaduna",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/kaduna.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "kano",
+      "name": "Kano",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/kano.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "katsina",
+      "name": "Katsina",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/katsina.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "kebbi",
+      "name": "Kebbi",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/kebbi.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "kogi",
+      "name": "Kogi",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/kogi.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "kwara",
+      "name": "Kwara",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/kwara.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "lagos",
+      "name": "Lagos",
+      "zone": "South West",
+      "capital": "",
+      "summary": "Interactive profile available: demographics, environment, spending, human development, WASH, energy, ICT and conflict trends.",
+      "image": "assets/state-images/lagos.jpg",
+      "availableProfile": true,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "nasarawa",
+      "name": "Nasarawa",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/nasarawa.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "niger",
+      "name": "Niger",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/niger.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "ogun",
+      "name": "Ogun",
+      "zone": "South West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/ogun.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "ondo",
+      "name": "Ondo",
+      "zone": "South West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/ondo.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "osun",
+      "name": "Osun",
+      "zone": "South West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/osun.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "oyo",
+      "name": "Oyo",
+      "zone": "South West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/oyo.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "plateau",
+      "name": "Plateau",
+      "zone": "North Central",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/plateau.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "rivers",
+      "name": "Rivers",
+      "zone": "South South",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/rivers.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "sokoto",
+      "name": "Sokoto",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/sokoto.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "taraba",
+      "name": "Taraba",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/taraba.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "yobe",
+      "name": "Yobe",
+      "zone": "North East",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/yobe.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    },
+    {
+      "slug": "zamfara",
+      "name": "Zamfara",
+      "zone": "North West",
+      "capital": "",
+      "summary": "View state profile indicators, maps and development insights.",
+      "image": "assets/state-images/zamfara.jpg",
+      "availableProfile": false,
+      "updated_at": "2026-05-05",
+      "hero_metrics": {}
+    }
+  ],
+  "chart_indicators": [
+    {
+      "state_slug": "lagos",
+      "group_name": "human",
+      "indicator": "Multidimensional Poverty (%)",
+      "state_value": 29.4,
+      "nigeria_value": 62.9,
+      "peer_value": 35.7,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "human",
+      "indicator": "HDI",
+      "state_value": 72.1,
+      "nigeria_value": 55,
+      "peer_value": 53.3,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "human",
+      "indicator": "Life Expectancy at Birth",
+      "state_value": 57.8,
+      "nigeria_value": 56.2,
+      "peer_value": 51.7,
+      "year": "2021"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "health",
+      "indicator": "Infant Mortality Rate",
+      "state_value": 36,
+      "nigeria_value": 63,
+      "peer_value": 33,
+      "year": "2023-24"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "health",
+      "indicator": "Maternal Mortality Rate",
+      "state_value": 356,
+      "nigeria_value": 556,
+      "peer_value": 323,
+      "year": "2018"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "health",
+      "indicator": "HIV Prevalence Rate",
+      "state_value": 1.8,
+      "nigeria_value": 1.4,
+      "peer_value": 2,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "health",
+      "indicator": "Health Facilities per 10K",
+      "state_value": 1.6,
+      "nigeria_value": 1.6,
+      "peer_value": 1.9,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "education",
+      "indicator": "Literacy Rate (5yrs+)",
+      "state_value": 92.8,
+      "nigeria_value": 63.2,
+      "peer_value": 76.9,
+      "year": "2020"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "education",
+      "indicator": "Children Out of School",
+      "state_value": 0.2,
+      "nigeria_value": 16.17,
+      "peer_value": 1.19,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "education",
+      "indicator": "Schools per 10K",
+      "state_value": 18.5,
+      "nigeria_value": 13.9,
+      "peer_value": 16.1,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "labour",
+      "indicator": "Un/under Employment",
+      "state_value": 5.5,
+      "nigeria_value": 5.4,
+      "peer_value": 4.3,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "labour",
+      "indicator": "Informal Employment",
+      "state_value": 76.3,
+      "nigeria_value": 92.2,
+      "peer_value": 85.3,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "labour",
+      "indicator": "Employment in Agriculture",
+      "state_value": 1.2,
+      "nigeria_value": 32.5,
+      "peer_value": 18.9,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "labour",
+      "indicator": "Youth NEET",
+      "state_value": 15.1,
+      "nigeria_value": 15.6,
+      "peer_value": 19,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "wash",
+      "indicator": "Improved Drinking Water",
+      "state_value": 99.4,
+      "nigeria_value": 75.9,
+      "peer_value": 88.8,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "wash",
+      "indicator": "Time to Water Source >30min",
+      "state_value": 4,
+      "nigeria_value": 25.2,
+      "peer_value": 7.4,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "wash",
+      "indicator": "Improved Sanitation Facilities",
+      "state_value": 96.9,
+      "nigeria_value": 57.5,
+      "peer_value": 71.2,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "wash",
+      "indicator": "Combined WASH Access",
+      "state_value": 26.9,
+      "nigeria_value": 14.4,
+      "peer_value": 17.2,
+      "year": "2022"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "food",
+      "indicator": "Food Security Pressure",
+      "state_value": 17.01,
+      "nigeria_value": 82.28,
+      "peer_value": 19.68,
+      "year": "2024"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "food",
+      "indicator": "Food Security Crisis",
+      "state_value": 1.26,
+      "nigeria_value": 24.1,
+      "peer_value": 1.96,
+      "year": "2024"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "food",
+      "indicator": "Food Security Emergency",
+      "state_value": 0,
+      "nigeria_value": 0.99,
+      "peer_value": 0,
+      "year": "2024"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "food",
+      "indicator": "Number of IDPs",
+      "state_value": 0,
+      "nigeria_value": 4.07,
+      "peer_value": 0.02,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "energy",
+      "indicator": "Access to Electricity",
+      "state_value": 98.7,
+      "nigeria_value": 63.7,
+      "peer_value": 66.7,
+      "year": "2020"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "energy",
+      "indicator": "Clean Cookstoves Usage",
+      "state_value": 99.3,
+      "nigeria_value": 48.5,
+      "peer_value": 58.3,
+      "year": "2020"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "energy",
+      "indicator": "Low/No Access Areas",
+      "state_value": 0,
+      "nigeria_value": 32.1,
+      "peer_value": 2.5,
+      "year": "2024"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "energy",
+      "indicator": "Monthly Diesel Expenditure (₦)",
+      "state_value": 1.22,
+      "nigeria_value": 1.45,
+      "peer_value": 1.3,
+      "year": "2024"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "ict",
+      "indicator": "Internet Access Households",
+      "state_value": 65.1,
+      "nigeria_value": 34.7,
+      "peer_value": 36.9,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "ict",
+      "indicator": "Phone Access Households",
+      "state_value": 95.6,
+      "nigeria_value": 84.6,
+      "peer_value": 90.2,
+      "year": "2023"
+    },
+    {
+      "state_slug": "lagos",
+      "group_name": "ict",
+      "indicator": "Road Density per 100km",
+      "state_value": 146,
+      "nigeria_value": 10,
+      "peer_value": 10,
+      "year": "2022"
+    }
+  ]
+}
