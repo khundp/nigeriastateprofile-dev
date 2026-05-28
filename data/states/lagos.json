@@ -1,0 +1,13 @@
+{
+  "slug": "lagos",
+  "name": "Lagos",
+  "zone": "South West",
+  "capital": "Ikeja",
+  "updated_at": "2026-05-04",
+  "summary": "Interactive profile available: demographics, environment, spending, human development, WASH, energy, ICT and conflict trends.",
+  "hero_metrics": {
+    "population": "21M+",
+    "zone": "South West",
+    "profile_status": "Active"
+  }
+}
